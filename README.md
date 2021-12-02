@@ -14,6 +14,7 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ## Program:
+```
 #Program to find the rank of a matrix.
 #Developed by: Rajeshkannan
 #RegisterNumber:21500434
@@ -21,6 +22,7 @@ import numpy as np
 A= np.array([[3,2,5],[1,1,2],[3,3,6]])
 values=np.linalg.matrix_rank(A)
 print(values)
+```
 ## Output:
 ![output1](ROTM.png)
 ## Result:
